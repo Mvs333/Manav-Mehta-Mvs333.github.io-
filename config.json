@@ -44,7 +44,7 @@
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
-  "projects": {
+    "projects": {
     "title": "Featured Projects",
     "items": [
       {
@@ -52,79 +52,91 @@
         "date": "2025",
         "description": [
           "A comprehensive job portal platform connecting employers and job seekers",
-          "Built with [your tech stack - PHP/MySQL/etc]",
-          "Features include job posting, application tracking, and user authentication"
+          "Features include job posting, application tracking, and user authentication",
+          "Built with PHP, MySQL, and modern web technologies"
         ],
         "picture": "assets/projects/manav.png",
         "link": {
           "url": "https://job-portal3.free.nf",
           "title": "View Live Site"
         },
-        "github": "https://github.com/Mvs33/https-job-portal3.free.nf-"
+        "github": "https://github.com/Mvs333/https-job-portal3.free.nf-"
+      },
+      {
+        "name": "NextGen Learning Management System",
+        "date": "2025",
+        "description": [
+          "A modern Learning Management System (LMS) for online education",
+          "Features include course management, student enrollment, and progress tracking",
+          "Built with PHP, MySQL, and responsive design principles"
+        ],
+        "picture": "assets/projects/manav1.png",
+        "link": {
+          "url": "https://nextgenlms.infinityfree.me",
+          "title": "View Live Site"
+        },
+        "github": "https://github.com/Mvs333/https-nextgenlms.infinityfree.me-"
       }
     ]
-  },
-  "github_projects": {
-    "title": "Projects on GitHub",
-    "enabled": true,
-    "fetch_repos": true,
-    "repo_count": 6,
-    "show_forks": false,
-    "show_topics": true,
-    "exclude_repos": ["Mvs333.github.io"],
-    "featured_topics": ["portfolio", "project", "featured"]
-  },
-  "experience": {
-    "title": "Professional Experience",
+  },,
+"experience": {
+    "title": "Education & Training",
     "jobs": [
       {
-        "company": "Your Company Name",
-        "role": "Your Job Title",
-        "date": "Start Date - Present",
+        "company": "Atmiya University,Rajkot,Gujarat",
+        "role": "BCA Student (Bachelor of Computer Applications)",
+        "date": "2023 - 2026",
         "responsibilities": [
-          "Add your key responsibilities and achievements here",
-          "Include specific technologies you worked with",
-          "Mention any notable projects or impact metrics",
-          "Update this section with your actual work experience"
+          "Currently in final year with focus on web development and programming fundamentals",
+          "Completed coursework in Data Structures, Database Management, and Object-Oriented Programming",
+          "Developed Job Portal project,NextGenlms as part of academic curriculum",
+          "Maintaining CGPA: [8.87]"
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
       }
     ]
   },
-  "skills": {
+ "skills": {
     "title": "Skills & Technologies",
     "categories": [
       {
-        "name": "Programming Languages & Technologies",
+        "name": "Programming Languages",
         "items": [
           "JavaScript",
-          "Python",
+          "Python", 
           "Java",
           "TypeScript"
         ]
       },
       {
-        "name": "Tools & Platforms",
+        "name": "Web Development",
         "items": [
-          "Git",
-          "GitHub",
-          "VS Code",
-          "Docker"
+          "HTML/CSS",
+          "React",
+          "Node.js",
+          "PHP"
+        ]
+      },
+      {
+        "name": "DevOps & Security (Learning)",
+        "items": [
+          "Docker",
+          "GitHub Actions",
+          "CI/CD Concepts",
+          "Security Basics"
         ]
       },
       {
         "name": "Certifications",
         "items": [
-          {
-            "name": "Add your certification name here",
-            "url": "https://example.com/your-certification-link"
-          },
-          "You can also add certifications without links"
+          "DevSecOps Fundamentals (Planned)",
+          "Cloud Security (Learning)",
+          "Add any certifications you have"
         ]
       }
     ]
-  },
+,
   "footer": {
     "show_social_links": true,
     "show_built_with": true,
