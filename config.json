@@ -44,7 +44,7 @@
       "This portfolio showcases my journey, projects, and skills. Feel free to explore and get in touch if you'd like to collaborate!"
     ]
   },
-    "projects": {
+  "projects": {
     "title": "Featured Projects",
     "items": [
       {
@@ -79,32 +79,32 @@
       }
     ]
   },
-"experience": {
+  "experience": {
     "title": "Education & Training",
     "jobs": [
       {
-        "company": "Atmiya University,Rajkot,Gujarat",
+        "company": "Atmiya University, Rajkot, Gujarat",
         "role": "BCA Student (Bachelor of Computer Applications)",
         "date": "2023 - 2026",
         "responsibilities": [
           "Currently in final year with focus on web development and programming fundamentals",
           "Completed coursework in Data Structures, Database Management, and Object-Oriented Programming",
-          "Developed Job Portal project,NextGenlms as part of academic curriculum",
-          "Maintaining CGPA: [8.87]"
+          "Developed Job Portal and NextGen LMS projects as part of academic curriculum",
+          "Maintaining CGPA: 8.87"
         ],
         "logo": "assets/logos/Placeholder_Logo.png",
         "logo_dark": "assets/logos/Placeholder_Logo.png"
       }
     ]
   },
- "skills": {
+  "skills": {
     "title": "Skills & Technologies",
     "categories": [
       {
         "name": "Programming Languages",
         "items": [
           "JavaScript",
-          "Python", 
+          "Python",
           "Java",
           "TypeScript"
         ]
@@ -131,17 +131,15 @@
         "name": "Certifications",
         "items": [
           "DevSecOps Fundamentals (Planned)",
-          "Cloud Security (Learning)",
-          "Add any certifications you have"
+          "Cloud Security (Learning)"
         ]
       }
     ]
-,
+  },
   "footer": {
     "show_social_links": true,
     "show_built_with": true,
     "built_with_text": "Built with ❤️ using vanilla JavaScript",
     "tagline": "Let's connect and build something amazing together!"
   }
-
 }
