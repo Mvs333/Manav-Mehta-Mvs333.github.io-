@@ -7,20 +7,20 @@
     "github_projects": true
   },
   "site": {
-    "title": "Manav Mehta",
+    "title": "Manav Shailesh Mehta",
     "description": "Developer Portfolio",
     "seo": {
-      "title": "Manav Mehta - Developer Portfolio",
+      "title": "Manav Shailesh Mehta - Developer Portfolio",
       "description": "Developer Portfolio of Manav Mehta",
       "keywords": "developer, portfolio, github",
-      "author": "Manav Mehta",
+      "author": "Manav Shailesh Mehta",
       "og_image": "https://avatars.githubusercontent.com/Mvs333",
       "twitter_card": "summary_large_image",
       "base_url": "https://Mvs333.github.io/Manav-Mehta-Mvs333.github.io-"
     }
   },
   "header": {
-    "greeting": "Manav Mehta",
+    "greeting": "Manav Shailesh Mehta",
     "tagline": "Developer and Creator."
   },
   "social_links": [
